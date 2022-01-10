@@ -1,11 +1,12 @@
-<h1 align="left" style="color:red" >Hey There !:wave:</h1>
-<p style="font-family:'Courier New'" >This is <b>Car Parking System</b>, and here are a few things that I'm working on:</p>
+<h3 align="left" style="color:red" > Automated Car Parking System</h3>
+<p style="font-family:'Courier New'" >This is <b>Embedded Project</b>, and based upon microcontroller called arduino Uno and Several shield and sensors, these are some technolgy whic we use to build this project:</p>
 
 <ul>
-  <li>Front End Development</li>
-  <li>JavaScript and It's Librabry</li>
-  <li>Embedded System</li>
-  <li>Data Structure & Algo.</li>
+  <li>microcntroller</li>
+  <li>Code language - C++</li>
+  <li>Embedded System enable</li>
+  <li>Arduino.cc IDE.</li>
 </ul>
 <hr>
-<h3 align="left">Reach Out :-</h3>
+<h3 align="left">Hosted Website Link:-</h3>
+<a href="#">hosted link</a>
